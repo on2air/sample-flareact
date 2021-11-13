@@ -7,5 +7,5 @@ compatibility_date = "2021-10-16"
 bucket = "out"
 entry-point = "./"
 workers_dev = false
-account_id = "cce454b03554bb21273e962d115bd013"
-zone_id = "70f7485904e131e5abb66e9e036cc894"
+account_id = ""
+zone_id = ""
