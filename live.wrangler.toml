@@ -1,0 +1,11 @@
+name="o2a-notion"
+route = "test-flareact.o2adev.com/*"
+usage_model = "bundled"
+type = "webpack"
+webpack_config = "node_modules/flareact/webpack"
+compatibility_date = "2021-10-16"
+bucket = "out"
+entry-point = "./"
+workers_dev = false
+account_id = ""
+zone_id = ""

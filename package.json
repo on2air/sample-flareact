@@ -1,0 +1,20 @@
+{
+  "name": "flareact-project",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A template for kickstarting a Flareact project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "flareact dev",
+    "build": "flareact build",
+    "deploy": "flareact publish"
+  },
+  "dependencies": {
+    "flareact": "^1.3.1",
+    "notion-utils": "^4.10.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-notion-x": "^4.11.0"
+  }
+}
